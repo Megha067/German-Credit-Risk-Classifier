@@ -39,7 +39,7 @@ Bad credit risk is treated as the **positive class** (1), so Precision, Recall a
 
 `<PASTE YOUR GITHUB REPO LINK HERE>`
 
-Live Streamlit app: `<PASTE YOUR STREAMLIT APP LINK HERE>`
+Live Streamlit app: `(https://german-credit-risk-classifier.streamlit.app/)`
 
 ```
 german-credit-classifier/
